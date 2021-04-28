@@ -14,6 +14,8 @@ This project was part of a group project during the NLP class in the Master of B
 - huggingface
 - fast.ai
 - nltk
+- Pytorch (Fine-tuning GPT2)
+- Keras/Tensorflow
 
 
 **Colaborators:** 
