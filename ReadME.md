@@ -22,3 +22,6 @@ This project was part of a group project during the NLP class in the Master of B
 - Paolo 
 - Tinus
 
+# Instructions
+1. Clone repository https://github.com/frau-web/nlp_short_story_generator/git
+2. Run the main notebook [NAME]
