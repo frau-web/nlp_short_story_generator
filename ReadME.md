@@ -31,5 +31,10 @@ Although these notebooks cannot be directly executed (they are designed to serve
 
 
 **Colaborators:** 
-- Paolo 
-- Tinus
+- AlejandroAlcuaz
+- alsilvah
+- frau-web
+- julianscholz
+- paolo-gueron
+- pedrolousantos
+- tvg-f
