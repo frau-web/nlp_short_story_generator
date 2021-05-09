@@ -12,7 +12,8 @@ The two top-level notebooks are:
 - Short_story_generator (/nlp_short_story_generator/Short_story_generator.ipynb)
 -	Evaluation_Pipelines (/nlp_short_story_generator/evaluation/Evaluation_Pipelines.ipynb)
 
-Both these notebooks can be executed directly and contain the necessary steps to clone the GitHub repository and link with the Google Drive folder (if permission is given).
+Both these notebooks can be executed directly and contain the necessary steps to clone the GitHub repository and link with the Google Drive folder (if permission is given). The Evaluation_Pipelines.ipynb notebook was used for manually rating stories produced from the different models along the criteria of creativity, correctness and child-friendliness. Short_story_generator.ipynb, along with its dependencies, contains the actual prototype of our application, which allows the user to input a seed sentence and then generates a short story. 
+
 Using the same Open notebook method described above, the other notebooks in the repository can also be opened. This includes all the notebooks found in  
 -	nlp_short_story_generator/data (EDA and model exploration and creation)
 -	nlp_short_story_generator/generation (model description and encapsulation)
