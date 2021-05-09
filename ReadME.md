@@ -19,6 +19,7 @@ Using the same Open notebook method described above, the other notebooks in the 
 
 Although these notebooks cannot be directly executed (they are designed to serve the two top-level notebooks) they do contain extensive writeup about the models themselves.
 
+## Other
 
 **Coding Language:** Python
 
@@ -30,7 +31,7 @@ Although these notebooks cannot be directly executed (they are designed to serve
 - Tensorflow
 
 
-**Colaborators:** 
+## Colaborators
 - AlejandroAlcuaz
 - alsilvah
 - frau-web
